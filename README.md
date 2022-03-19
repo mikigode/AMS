@@ -1,0 +1,2 @@
+# AMS
+Attendance managment system
